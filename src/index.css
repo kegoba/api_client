@@ -1,0 +1,30 @@
+
+input[type="text"], button[type="submit"], input[type="password"]{
+  margin:15px ;
+  width: 400px;
+  padding: 10px;
+  
+
+}
+
+.menu{
+  background-color:  rgb(179, 12, 12);
+
+}
+
+.footer{
+  margin-top: 100px;
+  background:rgb(179, 12, 12);
+
+}
+
+
+.btn{
+    margin:15px ;
+  width: 400px;
+  padding: 10px;
+  
+
+}
+
+
